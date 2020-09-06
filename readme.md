@@ -2,4 +2,4 @@
 
 ## Proceso de elaboración
 
-Docuemtación del proceso para la replicabilidad en otros distritos o comunidades.
+Documentación del proceso para la replicabilidad en otros distritos o comunidades.
